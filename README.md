@@ -1,5 +1,5 @@
 ### Date created
- July 12th 2020
+July 12th 2020
 
 ### Project Title
 Bikeshare 2 in Python: Udacity Course
